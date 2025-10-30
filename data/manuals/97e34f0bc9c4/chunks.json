@@ -1,0 +1,210 @@
+[
+  {
+    "header": "1.   안전 수칙",
+    "content": "Warning : 잠재적으로 위험한 상황을 나타내며, 이를 피하지 않으면 사망이나 중상을 입을 수 있음을 지시합니다.Caution : 잠재적으로 위험한 상황을 나타내며, 이를 피하지 않으면 손상, 결함 또는 부상을 초래합니다.Note : 잠재적으로 위험한 상황을 나타내며, 피하지 않으면 장비가 손상될 수 있습니다.이것은 보호를 위해서만 사용되지만 안전을 위한 것은 아닙니다.",
+    "start_page": 1,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-1"
+  },
+  {
+    "header": "2.   안전 수칙 및 경고사항",
+    "content": "Warning1)   Steam Injector 모드를 작동할 때 Steam Condensate Valve가 완전히 열리고Steam Inlet Valve가 작업자에 의해 천천히 열려야 합니다.2)   조수 장치가 스팀에 의해 가압되는 것을 막기 위해 스팀 배출 배관에 ValveCock을 설치하지 않아야 합니다.Caution1)   장비의 코팅 및 Gasket을 보호하기 위해서 용접 또는 다른 화기작업은 엄격히금지되어야 합니다.2)   조수기는 오염된 물이나 해안 30km 이내에서 작동해서는 안됩니다.3)   Plate의 Scale 형성을 방지하기 위해 다음 항목을 수행하십시오.3-1) 출력은 지정된 정상 용량 이하로 유지하여야 합니다.",
+    "start_page": 1,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-2"
+  },
+  {
+    "header": "3.   장비와 시스템 설명",
+    "content": "[IMAGE]",
+    "start_page": 2,
+    "type": "section",
+    "has_image": true,
+    "id": "chunk-3"
+  },
+  {
+    "header": "3.   장비와 시스템 설명 - 3-1. 엔진 Jacket Cooling Water 가열을 이용한 작동 설명",
+    "content": "-   고 진공 상태를 이용해 저온에서 해수를 증발하여 담수를 생산하며, 메인엔진 재킷냉각수(Main Engine Jacket Cooling Water) 또는 스팀(Steam)을 열원으로 사용합니다.-   이젝터(Ejector)와 이젝터 펌프(Ejector Pump)를 통해 챔버 내 진공을 유지하고,증기에서 분리된 물방울은 다시 브라인(Brine)로 배출됩니다.-   데미스터(Demister)를 통과한 증기는 냉각된 해수에 의해 응축돼 담수로 이송되며, 염분계(Salinometer)와 솔레노이드 밸브(Solenoid Valve)로 염도 제어 및 재순환이 자동 실행됩니다.-   각 온도계와 염분 표시기는 자동 제어 및 원격 경보 기능으로 운전과 안전성을보장합니다.Note:① 이 장비의 경우, 이젝터 입구 측의 압력은 Ballast 조건에서 약 3bar.g 그리고Loading 조건에서 약 4 bar.g가 되어야 합니다.② 이젝터 출구 압력은 0.8kg/cm2를 초과해서는 안됩니다.③ Feed water는 Feed 밸브에 의해 조절되어야 합니다. 일반적으로 10ppm 이하에서스케일 형성을 방지하기 위해 완전히 열어야 합니다.",
+    "start_page": 2,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-4"
+  },
+  {
+    "header": "3.   장비와 시스템 설명 - 3-2. 포화증기 가열을 이용한 작동 설명",
+    "content": "•   포화증기는 엔진 재킷 냉각수 대신 조수기의 대체 열원으로 사용될 수 있습니다.•   포화증기는 스팀 인젝터를 통해 조수기의 열교환기로 전달됩니다.•   스팀 인젝터는 순환 펌프로 작동하며, 열교환기 출구 배관의 혼합수(청수와 스팀응축수)를 가열합니다.•   조수기의 열교환기는 깨끗한 청수나 스팀 응축수로 채워져 있으며, 생성된 응축수는 수직 안전 배출 파이프의 소켓을 통해 보일러 급수 탱크 또는 온수 저장통으로 되돌아갑니다.",
+    "start_page": 3,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-5"
+  },
+  {
+    "header": "3.   장비와 시스템 설명 - 3-3. 설치에 대한 설명",
+    "content": "•   설치 도면과 기술 사양, 분해 검사 공간을 반드시 확인해야 합니다.•   온도계 및 기타 계측기의 값을 쉽게 읽을 수 있어야 합니다.•   배관은 단순화하여 불필요한 압력 강하를 방지해야 하며, 이는 펌프 효율과 조수량에 영향을 미칩니다.•   지정된 Jacket Water와 Sea Water의 유량, 그리고 증발기 내 증기 흐름이 올바른지 점검해야 합니다.•   청수 배관은 반드시 선박의 청수탱크와 연결되어야 하며, 배압은 1.8kg/cm²를 초과하지 않아야 합니다.•   생성된 담수는 용존 산소 농도가 매우 낮아 화학적으로 불안정하기 때문에, 청수배관은 스테인리스 스틸이나 비철 배관 재료를 사용해야 합니다.•   용존 산소가 적으면 산화막이 생기지 않아 물이 다른 물질과 반응해 붉거나 갈색으로 변할 수 있습니다.Note: 결합된 이젝터 – 해수 펌프는 조수기와 인접한 수준에서 그리고 선외 배관의 최대배압 0.8kg/cm2에서 견딜 수 있도록 설계되었습니다. 이것이 불가능할 경우 추가로 설치위치를 더 높이도록 치수가 지정되어야 하고, 파이프 저항 및 이젝터는 그에 따라설계되어야 합니다.",
+    "start_page": 3,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-6"
+  },
+  {
+    "header": "3.   장비와 시스템 설명 - 3-4. Steam Injector 설치에 대한 설명",
+    "content": "•   스팀 인젝터의 스팀 유로 배수관에 배압이 가해지면 이상 진동이 발생하여 시스템 작동이 불가능해질 가능성이 큽니다.•   스팀 인젝터 후단의 압력이 3kg/cm²를 초과하면 안전 밸브가 작동하여 튜브를보호합니다.•   공급된 증기 압력이 설계압력보다 낮으면 시스템 진동이 발생할 수 있으며, 허용변동 범위는 설계 값의 ±5% 내외입니다.",
+    "start_page": 4,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-7"
+  },
+  {
+    "header": "4.   Jacket Cooling Water 운전 - 4-1. 장비 가동",
+    "content": "Note : 작동하기 전에 다음 사항을 확인하십시오.-   Feed water 처리에 대한 지침을 준수하십시오.(화학 약품 주입 부분 참조)-   증류수 펌프의 회전 방향을 확인하십시오.-   증발기의 jacket cooling water 입/출구 밸브를 닫습니다.-   Vacuum breaker를 닫으십시오.-   증발기의 feed water 밸브를 닫습니다.-   증류수 펌프의 출구 밸브를 닫으십시오-   Water Ejector Head의 배수 밸브를 닫습니다.-   Condenser cooling water 입/출구 밸브를 여십시오.Warning : 건조한 상태에서 조수기의 증류수 펌프를 가동하지 마십시오.Step. 1  : 해수 이젝터 펌프를 시동하십시오.①   이젝터 펌프 흡입 밸브와 선외 배출 밸브를 완전히 엽니다.②   이젝터 펌프를 기동합니다.③   이젝터 펌프 배출 밸브를 천천히 여십시오.** 워터 이젝터 입구의 압력이 3kg/cm2 이상인지 확인하십시오.Step. 2  : 충분한 진공 상태가 될 때까지 기다리십시오 (약 92%)①   Vacuum breaker valve를 닫습니다②   Vacuum adjusting cock valve를 엽니다.Step. 3  : Feed water 밸브를 열고 해수를 증발기로 공급하십시오.-   Feed valve는 증발기 plate의 scale 형성을 막기 위해 완전히 여십시오.Step. 4  : 조수기의 jacket water 입/출구 밸브를 천천히 엽니다.-   밸브를 완전히 연 후, 바이패스 밸브를 조절하십시오.Warning : 메인 엔진에 열 충격을 주지 마십시오, 자켓 냉각수의 입구 및 출구 밸브는천천히 그리고 점진적으로 개폐하십시오. 진공이 약 85%로 떨어지는 동안, 비등 온도가 상승합니다. 이것은 증발이 시작되었음을 나타냅니다.Step. 5  : 청수가 air suction line의 sight glass에 관측될 때, 증류수 펌프를 가동하고Flow Meter 앞의 밸브를 엽니다.",
+    "start_page": 4,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-8"
+  },
+  {
+    "header": "4.   Jacket Cooling Water 운전 - 4-2. 용량조절",
+    "content": "-   올바른 용량이 얻어 질 때까지 바이 패스 밸브로 증발기의 청수 및 엔진 냉각수의 처리량을 조정합니다.-   정격 용량을 초과하는 청수를 생산하는 경우에는, 생산량을 초과하지 않은 범위에서 청수의 규정된 양 또는 그 이하로 장비를 운전하는 것이 좋습니다.",
+    "start_page": 5,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-9"
+  },
+  {
+    "header": "4.   Jacket Cooling Water 운전 - 4-3. 정지(일반사항)",
+    "content": "Step. 1  : 증류수 펌프를 정지하십시오.①   Engine cooling water(J.W.)의 바이패스 밸브를 천천히 여십시오.②   증발기의 engine cooling water(J.W.) in/out 밸브를 점차적으로 닫습니다.Step. 4  : 청수탱크로 가는 valve를 잠그십시오.-   약품처리 밸브가 열려있다면, 잠그십시오.Step. 5  : Flushing①   J.W. in/Out의 온도가 떨어졌을 때, Feed water valve를 잠그십시오.②   청수로 1시간동안 flushing 하십시오.** 용량이 감소되면, 운전자의 요구에 따라 2~3시간동안 flushing하십시오(flushing은 오래할수록 더 효과적입니다.)Step. 6  : 진공 조절 밸브를 잠그십시오.-   Ejector pump를 정지한 후에, S.W. In./Out 밸브를 잠그십시오.Step. 7  : Shell chamber 하부의 배수밸브를 여십시오.** 진공게이지가 ‘0’을 지칭한 후에, 배수밸브로 청수가 배출될 때 하부 배수 밸브를 잠그십시오.Step. 8  : Vacuum breaker valve를 엽니다.①   아래쪽 Vacuum breaker valve로 청수가 배출되면 Vacuum breaker valver를잠그십시오.②   5분 후, 청수 공급을 중단하십시오.** 다음 운전할 때까지, 이 상태를 유지하십시오.** Flushing  : Step. 5의 Flushing Valve를 통해 청수(F.W.)를 공급하는 것.",
+    "start_page": 5,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-10"
+  },
+  {
+    "header": "5.   Steam Injector 운전 - 5-1. 장비 가동",
+    "content": "Warning : 이젝터 펌프가 가동되고 증발기로 feed water가 공급되기 전에 SteamInjector 작동을 위해 Steam 입구 밸브를 열지 마십시오.Caution : 프라이밍 밸브를 열고 증발기 섹션(Steam Injector 라인)을 깨끗한 물로 채웁니다. 히터쉘 내부에 공기가 있으면, 이러한 공기는 캐비테이션 또는 내부 물의 맥동운동으로 인해 비정상적인 소음 또는 진동을 유발할 수 있습니다.-   증기 밸브를 빠르게 열지 마십시오. 그렇다면 쉘(스팀 인젝터 라인)의 물이 배수 탱크를 막아 진동을 유발할 수 있습니다.-   증기압이 설계 값보다 낮으면 내부의 물이 맥동하고 이상 소음 및 진동의 원인이 됩니다.-   스팀을 시스템에 공급하기 전에 스팀 배열은 hydrophore 시스템으로부터 청수로 채워져야 합니다.-   이 파이프는 반드시 대기압에서 열어야 하므로, 밸브가 안전 밸브의 배관에 설치되지 않아야 합니다.-   최대 스팀응축수 배출 라인의 배압은 0.6kg/cm2입니다.-   장비를 정지시킬 때, 스팀 입구밸브가 항상 완전히 닫혀 있는지 확인하십시오.이것은 증발지 내부의 고온을 피하기 위함Step. 1  : jacket water 입/출구 밸브를 완전히 닫고, 드레인 라인의 밸브를 열어 Jacketwater를 배출하십시오.Step. 2  : drain valve를 잠그고 나서 steam injector line을 F.W. Priming 밸브를 열어, 청수로 채웁니다. 안전밸브가 설치된 라인에 있는 게이지를 확인함으로써 Priming Water를확인할 수 있습니다.Step. 3  : condensate outlet valve는 항상 열려 있어야 합니다. 스팀으로 운전할 때,Steam Injector line의 압력을 Condensate outlet  valve를 조절함으로써 확인할 수 있습니다. 일반적으로, 안전밸브 전단의 압력은 0~1kg/cm2입니다.Step. 4  : 버터플라이 밸브 2개를 여십시오.Step. 5  : Feed water 밸브를 열고 해수를 증발기로 공급하십시오. 유량은 오리피스 전단의 Compound 게이지를 통해 확인할 수 있습니다. Feed water밸브는 증발기 튜브의Scale 형성을 방지하기 위해 완전히 개방되어야 하지만, 염도가 약간 증가하면 조금 닫아야 합니다.Step. 6  : 위에서 언급 한 준비를 마친 후 10분 동안 스팀 인젝터의 스팀 공급을 시작하여 증기 공급을 시작하십시오. 배관의 청수는 순환되고 스팀에 의해 가열됩니다. 가열 된청수가 증발기 섹션 튜브에서 냉각됨에 따라 증기 배수구가 배수 파이프를 통해 올라간다음 배수 탱크로 배출됩니다.Note : 스팀인젝터에 공급되는 스팀은 반드시 포화증기이어야 합니다.",
+    "start_page": 6,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-11"
+  },
+  {
+    "header": "5.   Steam Injector 운전 - 5-2. 용량 조절",
+    "content": "-   조수량은 스팀 인젝터로 공급되는 스팀양에 의해 조절될 수 있습니다.-   해당 청수의 생산에 해당하는 증기 입구 압력은 수동으로 작동되는 조절 밸브(yard supply) 또는 자동 감압 밸브(Yard supply)에 의해 조절될 수 있습니다.-   일정량의 청수 또는 그 이하의 생산량으로 장비를 운용할 것을 권고하였으나 초과하는 경우에는 Scale형성의 위험이 따를 수 있습니다.Note : steam 압력은 “FWG 주문 사양”에 명시된 압력과 일치해야 합니다",
+    "start_page": 8,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-12"
+  },
+  {
+    "header": "5.   Steam Injector 운전 - 5-3. 정지",
+    "content": "Step. 1  : Steam Inlet V/v를 완전히 잠그십시오.(야드 공급)Step. 2  : 증류수 펌프를 정지하십시오.Step. 3  : 증발기측을 45℃ 이하로 냉각시킨 후, Feed water밸브를 닫으십시오Step. 4 :  이젝터 펌프를 정지하십시오.Step. 5  : 이젝터 펌프와 이젝터 후단 선외 밸브 전단의 해수 밸브를 닫으싮이ㅗ.Step. 6  : 청수 탱크로 가는 밸브를 닫으십시오.Step. 7  : 이젝터에 있는 배수 밸브를 여십시오.Warning : 스팀 인젝터로 작동하는 동안, Feed water 밸브를 닫지 마십시오. 포화 증기가스팀 드레인 라인으로 넘치지 않는다면, 이 경우, 우리는 증발기의 어떤 Scale 형성과 부상을 보증하지 않습니다.Note : 장기간 동안 성능을 유지하려면, Flushing 해야 합니다.",
+    "start_page": 8,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-13"
+  },
+  {
+    "header": "6. 유지보수 및 서비스 - 6-1.  약품으로 청소",
+    "content": "-   증발기의 운전온도가 40~48℃를 유지하더라도, 증발기 Plate에는 점진적으로 스케일이 형성되고, 용량이 감소되기에 증발기 Plate 청소는 필수적입니다.-   세척 시간은 작업 조건에 따라 다르지만 일반적으로 화학 세척은 연간 2~3회 실시해야 하며 1년에 1회 또는 2년에 한번씩 플레이트를 열어도 충분합니다.Note : 세정 시간과 스케일링을 줄이기 위해서, 공급 수의 양이 가장 중요합니다. 따라서 S.W. Feed Water 밸브를 정상 상태에서 10ppm 이하로 완전히 여십시오.",
+    "start_page": 9,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-14"
+  },
+  {
+    "header": "6. 유지보수 및 서비스 - 6-2. 조수기 개방 청소",
+    "content": "-   장비가 “장비 정지”에 설명된 대로 정지되면 조수기를 열고 응축기 및 증발기 섹션, 데미스터 및 조수 장치 내부를 검사하고 필요한 청소를 수행합니다.-   일반적으로 증발기를 분리하고 “화학 세척”에 설명 된 화학 물질을 사용하여 플레이트를 세척하면 됩니다. 조수 장치의 내부는 동일한 화학 물질을 사용하여 동시에 청소해야 합니다.",
+    "start_page": 9,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-15"
+  },
+  {
+    "header": "6. 유지보수 및 서비스 - 6-3. 조수기 청소 절차",
+    "content": "Step. 1  : Shell Cover의 볼트와 너트를 풉니다.Step. 2  : 하나의 너트에 전체 하중이 걸리지 않도록 점진적으로 Tightening bolt의 너트를 풉니다.Step. 3  : End Cover를 당겨 빼내어 플레이트를 하나씩 꺼낸 다음 다시 조립해야 할 때“무질서한(뒤섞인)” 플레이트 팩이 생기지 않도록 위치를 표시하십시오.Step. 4  : 최대 50℃의 뜨거운 억제 산이 담긴 용기에 담그거나 부드러운 브러시로 스케일을 제거하십시오.Warning: Inhibited acid를 사용하는 경우 항상 주의 깊게 공급 업체의 지침을 따르십시오. 공급업체의 지침에 따라 중화해야 합니다.Step. 5  : Plate와 Gasket을 검사하십시오. 결함이 있는 Plate가 발견되면 이 그룹의 다른Plate와 함께 Plate를 제거하십시오. 그러나 Plate package의 첫 번째 및 마지막 Plate는새 것으로 교체하지 않고는 제거할 수 없습니다.Step. 6  : 분리된 증발기를 재 조립할 때 손상되거나 결함이 있는 gasket이 있는지 점검해야 합니다. 있다면, Plate 다이어그램에 표시된 대로 새 것으로 교체하십시오. Plate 배열 도식에 따라 Plate를 순서대로 조립하고 올바르게 배치되었는지 확인하십시오. 플레이트 수에 따라 플레이트 팩을 올바른 치수로 고정하십시오.Step. 7  : 각각의 Plate 부분의 조임 측정을 확인합니다.[IMAGE][IMAGE][IMAGE][IMAGE][IMAGE][IMAGE][IMAGE][IMAGE]",
+    "start_page": 9,
+    "type": "section",
+    "has_image": true,
+    "id": "chunk-16"
+  },
+  {
+    "header": "6. 유지보수 및 서비스 - BOLT",
+    "content": "[IMAGE][IMAGE][IMAGE]Fig.1 The Tightening measurement for plate.Note : 예시, “각 Plate의 조임 치수 값 계산”.DF 13/20  : DF13 means TYPE, 20 means CAPACITY, total plate is 60 ea.L : 60 ea x 3.9 mm = 234 mmDF 23/30 : DF23 means TYPE, 30 means CAPACITY, total plate is 76 ea.L : 76 ea x 3.9 mm = 296.4 mm[IMAGE][IMAGE]Fig.2 The In-Diameter size of orifice.Step.8  : Shell Cover를 다기 전에 양측의 수압 테스트를 수행해야 합니다. 증발기의 경우바이 패스 밸브를 정상 위치로 천천히 열고 뜨거운 물이 흐르도록 해야 합니다. 콘덴서의 경우 해수 이젝터 펌프를 순환시켜 순환시키면 됩니다.Step. 9  : 테스트 후, 누수가 없다면, Cover를 닫고 볼트와 너트를 올바르게 조이십시오.Step. 10 : 다시 조립 한 후에는 이젝터 펌프를 시작하여 진공 테스트를 수행해야함과 동시에 Shell Cover의 볼트 & 너트를 더 조입니다",
+    "start_page": 10,
+    "type": "section",
+    "has_image": true,
+    "id": "chunk-17"
+  },
+  {
+    "header": "6. 유지보수 및 서비스 - 6-4. Gasket 교체",
+    "content": "-   Gasket의 형상  > 첨부 도면 참조-   접착제 타입PLIBOND 25/SCOTCHGRIP 847은 가용성 니트릴 고무 접착제입니다. (25% 고체물질). 접착제는 부분적으로 열가소성이므로 오래된 Gasket을 떼어 낼 수 있습니다.첨부 도면 참조-   세제새 Gasket과 Gasket 홈을 청소하고, 탈지하기 위해서는 “아세톤”을 사용하십시오.남아있는 까맣거나 느슨한 접착제와 고무는 스테인레스 회전 브러쉬로 제거해야합니다. 접착제를 바르기 전에 모든 세정제를 증발시키는 것이 매우 중요합니다.-   접착탈지 물질로 촉촉한 헝겊으로 Gasket과 Gasket 홈을 닦은 후 접착 자체를 시작할 수 있습니다. 접착 부분에는 지문이 묻어 있지 않아야 합니다. Gasket은 브러쉬로 접착제를 접착부위에 얇게 덮은 후, 건조를 위해 깨끗하고 건조한 곳에 놓습니다. 접착 작업은 견고한 테이블에서 쉽게 이루어져야 합니다. Gasket을 Plategasket 홈에 넣어, Plate를 쌓습니다.접착이 끝나면 Plate를 다시 장비에 걸고 열교환기에 함께 체결합니다. 접착제가빨리 건조되지만 압력과 물이 없는 경우 뜨거운 물에 의해 열교환기가 예열될수 있습니다.건조시간: 80 ~ 100 ℃에서 약 2시간.40~50℃에서 약 24시간.실온에서 약 48시간.Plate 형 열교환기를 가열할 수 없는 경우, Plate를 항상 따뜻한 상태에 두어야합니다.",
+    "start_page": 12,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-18"
+  },
+  {
+    "header": "6. 유지보수 및 서비스 - 6-5. Ejector의 유지보수",
+    "content": "-   Mixing Tube와 Diffuser, 1 st  & 2 nd  Nozzle로 구성",
+    "start_page": 13,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-19"
+  },
+  {
+    "header": "7. 약품 주입",
+    "content": "Warning : 보다 농축된 화학 약품을 사용하면 Plate가 심하게 손상되어 Plate의 색상이변경될 수 있습니다.",
+    "start_page": 13,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-20"
+  },
+  {
+    "header": "7. 약품 주입 - 7-1. 스케일링 예방.",
+    "content": "-   해수가 증발하는 동안, 항상 가열 표면에 스케일링이 생성될 위험이 있습니다.이로 인해 가열하는 면의 K 값이 감소하고 청수 생산량이 감소될 뿐만 아니라전체적으로 장비 효율이 저하됩니다.",
+    "start_page": 13,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-21"
+  },
+  {
+    "header": "7. 약품 주입 - 7-2. Feed water 비율",
+    "content": "-   Feed water의 비율은 매우 중요한 요소로 장비로 공급된 Feed water의 양과 생성된 청수의 양의 관계로 정의됩니다.-   Feed water의 비율이 감소하면, 장비 내의 농도가 증가하여 스케일 형성을 야기합니다.-   증발기 Plate의 스케일을 방지하기 위해 Feed 밸브를 완전히 열어야 합니다. 그러나 염도가 증가되는 경우, Feed 밸브를 약간 닫아야 합니다.",
+    "start_page": 13,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-22"
+  },
+  {
+    "header": "7. 약품 주입 - 7-3. 약품 주입량",
+    "content": "-   장비의 산성 세정없이 가열표면의 스케일 형성 및 연속 운전기간을 조절하기 위해서 스케일 조절 첨가제를 Feed water에 투요하는 것은 절대적으로 필요합니다.-   운전자는 Feed water의 화학 첨가물에 대한 지침을 따라야 합니다. 운전자는 화학 물질 공급 업체가 제공한 화학물질 투여 지침을 주의 깊게 따라야 합니다.Warning : 조수기가 화학물질 없이 45℃ 이상의 끓는 온도에서 작동되면 조수기를 자주 청소해야 합니다.-   우리는 45℃ 이상에서 약품 주입 없이 조수기를 운전하는 것을 권하지 않습니다.",
+    "start_page": 13,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-23"
+  },
+  {
+    "header": "7. 약품 주입 - 7-4. Feed water용 스케일 방지제 주입 장치",
+    "content": "-   약품을 첨가할 때, 약품과 물의 균일한 혼합을 위한 철저하게 혼합하십시오. 완전히 용해되는 스케일 억제제를 사용하십시오. 예, 폴리머 기준-   다음의 제품을 권장할 수 있습니다:n   NALFEET Evaporator treatment 9-913.n   AMEROYAL EVAPORATOR TREATMENTn   HEXAMETHAPHOSPHATEn   UNITOR LIQUID EVAPORATOR TREATMENTStep. 1  : 제조사의 지시에 따라, 탱크에 24시간 동안 필요한 양을 혼합하십시오Step. 2  : 조수기의 최대 청수 생산량을 커버하도록 유량계(Purge meter)를 조정하십시오.Step. 3  : 주입 시스템을 정기적으로 세척하십시오.",
+    "start_page": 14,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-24"
+  },
+  {
+    "header": "7. 약품 주입 - 7-5. 약품사용의 안전 예방조치",
+    "content": "Step. 1  : 눈 보호구 및 장갑을 착용하십시오. 피부, 눈 및 의복에 직접 접촉하지 않도록하십시오.Step. 2  : 폐기하기 전에 빈 용기를 청소하십시오.Step. 3  : 헝겊에 화학약품이 묻은 경우, 물로 헹구고 버리십시오.Step. 4  : 바닥에 화학 물질이 쏟아지면 물로 씻어 내고 남아있는 약품을 모래로 빨아 내십시오. 그러고나서, 즉시 청소하십시오.Step. 5  : 스케일 방지제는 농축용액상태로 섭취시 위험합니다. 실수로 소비하는 경우, 즉시 의료 조치를 취하십시오.Step. 6  : 눈이 화학 물질과 접속하면 물로 최소 20분 동안 헹구십시오. 즉시 의료조치를취하십시오.",
+    "start_page": 14,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-25"
+  },
+  {
+    "header": "3. 점검 체크리스트 (일일 점검)",
+    "content": "*T/S HANNARA 3/E UMA CHECKLIST•   온도(Temperature)o   J.W (Jacket Water) 입·출구: 70~85°Co   S.W (Sea Water) 입·출구:   0~30°C / 대략 5~10°C 상승o   [STEAM BOOSTING UNIT] CONDENSATED WATER: 85~95°Co   [STEAM BOOSTING UNIT] J.C.W (Jacket Cooling Water) 입·출구: 70~85°C•   압력(Pressure)o   EJECTOR P/P 입·출구: 3~4 bar /최대 0.8 bar 이하 유지 요구o   FEED WATER PRESS (S.W): 2~4 baro   F.W OUT PRESS (F.W): 1.8 bar 이하o   [STEAM BOOSTING UNIT] HEATER PRESS: 1 baro   [STEAM BOOSTING UNIT] HTR P/P 입·출구:•   Shell 온도 및 진공(Shell Temp / Vacuum)o   40~48°C / -0.92 bar•   Ejector Pump 전류 (Eject. P’P Amp)o•   염분(Salinity)o   10ppm 이하",
+    "start_page": 18,
+    "type": "section",
+    "has_image": false,
+    "id": "chunk-26"
+  }
+]
